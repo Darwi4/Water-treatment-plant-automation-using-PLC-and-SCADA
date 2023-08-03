@@ -1,0 +1,14 @@
+﻿ES2RT linker log file created on Thursday, July 13, 2023 12:50:55 PM
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ AnimationAppearanceWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationAppearanceWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationVisibilityWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationAppearanceWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ AnimationAppearanceWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+0 errors, 5 warnings - succeeded.
+
+Writing "D:\control\finish\done 13-7\Water plant\Water plant\Water plant\simatic\waterpla\HmiEs\PROJECT_1\PROJECT_1.Device_1"...
+Done.

@@ -1,0 +1,27 @@
+
+Date: 06/29/2023  time: 12:18:20 PM
+Download:
+waterplant\SIMATIC 300(1)\Hardware
+-> Error occurred downloading the object
+
+System download to station SIMATIC 300(1) is not being executed because the internal operating mode of module CPU 314C-2 DP (rack 0, slot 2) is not in STOP.
+
+
+Date: 06/29/2023  time: 12:18:22 PM
+Download:
+waterplant\SIMATIC 300(1)\CPU 314C-2 DP\S7 Program(1)\Blocks
+-> Object download was executed (with warnings)
+
+Warning: Block 'FC33' already exists on the CPU and has not be downloaded as a result.
+Warning: Block 'FC40' already exists on the CPU and has not be downloaded as a result.
+Warning: Block 'FC105' already exists on the CPU and has not be downloaded as a result.
+Warning: Block 'OB1' already exists on the CPU and has not be downloaded as a result.
+
+
+Date: 06/29/2023  time: 12:18:25 PM
+Download:
+waterplant\SIMATIC 300(1)\CPU 314C-2 DP\Connections
+-> Object download was executed (with warnings)
+
+System download to station SIMATIC 300(1) is not being executed because the internal operating mode of module CPU 314C-2 DP (rack 0, slot 2) is not in STOP.
+

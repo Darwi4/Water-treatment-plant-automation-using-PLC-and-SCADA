@@ -1,0 +1,9 @@
+﻿ES2RT linker log file created on 17 مايو, 2023 12:51:51 م
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+0 errors, 0 warnings - succeeded.
+
+Writing "C:\Users\Eng-Mohammed Zedan\Desktop\Water plant\Water plant\scada run time\waterplant - runtime.Device_1"...
+Done.

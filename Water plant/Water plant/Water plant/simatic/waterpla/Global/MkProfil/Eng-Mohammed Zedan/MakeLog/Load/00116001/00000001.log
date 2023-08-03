@@ -1,0 +1,9 @@
+00000000 0 0 0 0 0 $Version1
+00000000 0 0 0 0 0 Date:  06/29/2023  Time of Day::  12:18:22 PM
+00000000 0 0 0 0 0 Downloading...
+00000000 0 0 0 0 0 waterplant\SIMATIC 300(1)\CPU 314C-2 DP\S7 Program(1)\Blocks
+40000000 0 0 0 0 0 Block 'FC33' already exists on the CPU and has not be downloaded as a result.
+40000000 0 0 0 0 0 Block 'FC40' already exists on the CPU and has not be downloaded as a result.
+40000000 0 0 0 0 0 Block 'FC105' already exists on the CPU and has not be downloaded as a result.
+40000000 0 0 0 0 0 Block 'OB1' already exists on the CPU and has not be downloaded as a result.
+0 0 0 0 0 0 'Downloading': For 0 of 4 objects successful.
